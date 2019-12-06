@@ -1,0 +1,54 @@
+.start {
+  width: 375px;
+  height: 812px;
+  background-color: none;
+}
+.title {
+  text-align: center;
+  padding-top: 22px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #858585;
+}
+.title-percent {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #858585;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.answer .input-group .input-group-prepend {
+  width: 100%;
+  justify-content: center;
+}
+.answer .input-group .input-group-prepend .radio-answer .input-group-text {
+  padding: 1.3rem;
+}
+.radio-answer .input-group-text.check-answer-1 {
+  background: #edebeb;
+}
+.radio-answer .input-group-text input[type="radio"] {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
+  transform: scale(1.5);
+}
+.radio-answer .input-group-text.check-answer-2 {
+  background: #d8d8d8;
+}
+.radio-answer .input-group-text.check-answer-3 {
+  background: #bababa;
+}
+.radio-answer .input-group-text.check-answer-4 {
+  background: #969696;
+}
+.radio-answer .input-group-text.check-answer-5 {
+  background: #7e7e7e;
+}
+
+/* first page*/
